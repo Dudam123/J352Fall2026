@@ -1,11 +1,61 @@
-body {
-  background-color:#ffffff;
+.header {
+  background-color: #D8F3DC; padding: 20px; text-align: center; font-size: 20px;
 }
 
-h1 {
-  color:#000000; background-color:#f2f0a7; padding:20px;
+.Intro {
+  background-color: #d5dfed; padding: 20px; font-size: 20px; text-align: center;
 }
 
-h2 {
-  color: #000000; padding:20px; background-color: #f2f0a7;
+.facts {
+  background-color: #F1F1F1; padding: 20px; font-size: 20px;
+}
+
+.links {
+  background-color: #FFF3CD; padding: 20px; font-size: 20px;
+}
+
+.video {
+  background-color: #D6EAF8; padding: 20px; text-align: center; font-size: 25px;
+
+}
+
+.panda2 {
+  width: 400px; height: auto;
+}
+
+.panda3 {
+  width: 400px; height: auto;
+}
+
+.Panda1 {
+  width: 400px; height: auto;
+}
+
+.SnowPanda {
+  width: 400px; height: auto;
+}
+
+.PandaEating {
+  width: 400px; height: auto;
+}
+
+.navigation {
+    text-align: center;
+    padding: 15px;
+}
+
+.navigation a {
+    background-color: #A5D6A7;
+    color: #000000;
+    padding: 10px 20px;
+    margin: 5px;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.gallery-photo {
+  align-content: center;
+  width: 1000px;
+  Height: auto;
+  padding: 30px;
 }
