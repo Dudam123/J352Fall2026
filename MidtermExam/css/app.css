@@ -1,0 +1,46 @@
+
+/* This is the google font */
+
+
+h1 {
+  font-family: "Bebas Neue", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+body {
+  font-family: "Oswald", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+
+.headline {
+    background-color: #F54927;
+    text-align: center;
+    margin-bottom: 10px;
+    padding: 15px;
+}
+
+.main {
+    background-color: #F6FF8F;
+    padding: 15px;
+}
+ 
+.right {
+    background-color: #D9D9D9;
+    padding: 15px;
+}
+
+.right .callout {
+    padding: 0;
+    margin: 0;
+    border: none;
+    background-color: transparent;
+}
+
+.right iframe {
+    width: 100%;
+    display: block;
+    border: 0;
+}
